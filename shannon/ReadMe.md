@@ -8,4 +8,4 @@
 
 ---- 
 #### 备注
-训练模型的代码可以参考NN_baseline.ipynb的代码
+策略代码存在NN_baseline.py，训练模型的代码可以参考NN_baseline.ipynb的代码  
